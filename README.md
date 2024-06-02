@@ -17,11 +17,6 @@ This repository contains several publicly available datasets in CSV format. Thes
 * Alternatively, you can download the entire repository as a zip file or clone the repository using Git.
 * Here are the download URLs for individual datasets (replace "username" with your GitHub username):
 
-  * Banking Churn: [https://github.com/username/your_repo_name/blob/master/Banking_Churn.csv](https://github.com/username/your_repo_name/blob/master/Banking_Churn.csv) 
-  * Housing Prices: [https://github.com/username/your_repo_name/blob/master/Housing_Prices.csv](https://github.com/username/your_repo_name/blob/master/Housing_Prices.csv)
-  * KMeans Dataset: [https://github.com/username/your_repo_name/blob/master/KMeans_Dataset.csv](https://github.com/username/your_repo_name/blob/master/KMeans_Dataset.csv)
-  * Movie Rating Dataset: [https://github.com/username/your_repo_name/blob/master/Movie_Ratings.csv](https://github.com/username/your_repo_name/blob/master/Movie_Ratings.csv)
-
 ## License
 
 Please refer to the individual dataset license files (if provided) for usage restrictions.  In the absence of a specific license, these datasets are provided as-is for public use.
